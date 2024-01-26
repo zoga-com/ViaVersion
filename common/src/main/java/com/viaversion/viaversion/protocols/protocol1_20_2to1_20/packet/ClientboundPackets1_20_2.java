@@ -126,10 +126,10 @@ public enum ClientboundPackets1_20_2 implements ClientboundPacketType {
     STOP_SOUND, // 0x66
     SYSTEM_CHAT, // 0x67
     TAB_LIST, // 0x68
-    NBT_QUERY, // 0x69
+    ADVANCEMENTS, // 0x69
     COLLECT_ITEM, // 0x6A
     ENTITY_TELEPORT, // 0x6B
-    ADVANCEMENTS, // 0x6C
+    NBT_QUERY, // 0x6C
     ENTITY_PROPERTIES, // 0x6D
     ENTITY_EFFECT, // 0x6E
     DECLARE_RECIPES, // 0x6F
